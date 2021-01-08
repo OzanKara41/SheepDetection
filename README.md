@@ -6,7 +6,9 @@ Yolov3 was used for sheep detection. You can download weights via Google Drive (
 
 It has been developed for use in the "Kuzufab" project where systematic and data-based production will be made.
 
-## Output(s)
+## Input(s) and Output(s)
 
-![alt text](/Kuzufoto.jpg) ![alt text](/KuzuDetected.png)
+There are inputs and outputs. 
+
+1) ![alt text](/Kuzufoto.jpg) ![alt text](/KuzuDetected.png)
 
