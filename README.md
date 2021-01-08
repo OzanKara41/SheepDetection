@@ -8,5 +8,5 @@ It has been developed for use in the "Kuzufab" project where systematic and data
 
 ## Output(s)
 
-![alt text](/kuzufoto.jpg) ![alt text](/KuzuDetected.png)
+![alt text](/Kuzufoto.jpg) ![alt text](/KuzuDetected.png)
 
